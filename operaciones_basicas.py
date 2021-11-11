@@ -1,3 +1,4 @@
+# script para realizar operaciones matematicas basicas
 def sumar(a, b):
     return a + b
 

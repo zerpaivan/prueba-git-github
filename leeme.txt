@@ -1,2 +1,4 @@
 continua las pruebas
 probando el comando pull
+estudiando ramas (branch)
+se añadio texto a LEEME en la rama main

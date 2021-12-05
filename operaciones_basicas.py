@@ -18,6 +18,10 @@ def division(a, b):
         return "Division por cero no permitida"
 
 
+def potencia(a, b):
+    return a ** b
+
+
 if __name__ == "__main__":
 
     a = 5
@@ -26,3 +30,4 @@ if __name__ == "__main__":
     print("resta: ", restar(a, b))
     print("multiplicacion: ", multiplicar(a, b))
     print("divivion: ", division(a, b))
+    print("potencia: ", potencia(a, b))

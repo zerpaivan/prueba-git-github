@@ -1,4 +1,7 @@
 # script para realizar operaciones matematicas basicas
+from math import sqrt
+
+
 def sumar(a, b):
     return a + b
 
@@ -20,6 +23,11 @@ def division(a, b):
 
 def potencia(a, b):
     return a ** b
+
+
+# funcion creada desde la rama de prueba
+def raiz_cuadrada(a, b):
+    return sqrt(a)
 
 
 if __name__ == "__main__":

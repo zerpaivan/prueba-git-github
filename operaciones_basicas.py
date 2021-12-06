@@ -40,3 +40,6 @@ if __name__ == "__main__":
     print("divivion: ", division(a, b))
     print("potencia: ", potencia(a, b))
     print(f"raiz_cuadrada {a}: {raiz_cuadrada(a)}")
+
+# se añade texto e la rama main
+# rama main
